@@ -39,7 +39,6 @@
 - ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-  ![Clickhouse](https://img.shields.io/badge/-Clisehouse-333333?style=flat&logo=clickhouse)
 
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
