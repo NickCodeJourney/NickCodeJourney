@@ -17,6 +17,10 @@
 
 - ⚡ Fun fact **swimming**
 
+### Open Source Projects
+
+- [Apache SeaTunnel](https://github.com/apache/incubator-seatunnel)(SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time)) ![GitHub Repo stars](https://img.shields.io/github/stars/apache/incubator-seatunnel?style=social)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
