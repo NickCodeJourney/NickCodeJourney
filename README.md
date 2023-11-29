@@ -26,7 +26,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-### Tech Stack
 
 - ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=Apache%20Hadoop)
   ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=Apache%20Spark)
