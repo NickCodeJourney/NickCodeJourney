@@ -29,9 +29,9 @@
   ![Flink](https://img.shields.io/badge/-Flink-333333?style=flat&logo=Apache%20Flink)
   ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=Apache%20Kafka)
   
-- ![Static Badge](https://img.shields.io/badge/-spring-333333?logo=spring)
-  ![Static Badge](https://img.shields.io/badge/-spring%20boot-333333?logo=springboot)
-  ![Static Badge](https://img.shields.io/badge/-apache%20maven-333333?logo=apache%20maven)
+- ![Static Badge](https://img.shields.io/badge/-Spring-333333?logo=spring)
+  ![Static Badge](https://img.shields.io/badge/-Spring%20Boot-333333?logo=springboot)
+  ![Static Badge](https://img.shields.io/badge/-Maven-333333?logo=apache%20maven)
 
 - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Oracle)
   ![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=Scala)
