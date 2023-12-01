@@ -28,6 +28,8 @@
   ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=Apache%20Spark)
   ![Flink](https://img.shields.io/badge/-Flink-333333?style=flat&logo=Apache%20Flink)
   ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=Apache%20Kafka)
+  ![Static Badge](https://img.shields.io/badge/-Rabbit%20MQ-333333?logo=rabbitmq)
+
   
 - ![Static Badge](https://img.shields.io/badge/-Spring-333333?logo=spring)
   ![Static Badge](https://img.shields.io/badge/-Spring%20Boot-333333?logo=springboot)
